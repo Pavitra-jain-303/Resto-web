@@ -2,7 +2,9 @@
   "name": "aashirvad-restaurant",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pavitra-jain-303.github.io/Resto-web/",
+
+  "homepage": "https://pavitra-jain-303.github.io/Resto-web",
+
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
